@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 15 10:14:48 2022
 
-@author: claireberner
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 x= np.array([1,2,3,4,5])
